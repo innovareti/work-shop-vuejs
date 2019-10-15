@@ -14,7 +14,7 @@
 
 <script>
 export default {
-    name: 'novo',
+    name: 'sobre',
     data() {
         return {
 

@@ -46,7 +46,7 @@ export default {
   methods: {
       add (){          
 
-          let contact = this.contact
+          
 
           this.contacts.push({
               name: this.contact.name,
